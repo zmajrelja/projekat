@@ -1,0 +1,15 @@
+C:\Users\korisnik\Desktop\projekat\Knjizara\bin\Debug\Knjizara.exe.config
+C:\Users\korisnik\Desktop\projekat\Knjizara\bin\Debug\Knjizara.exe
+C:\Users\korisnik\Desktop\projekat\Knjizara\bin\Debug\Knjizara.pdb
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.Properties.Resources.resources
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.csproj.GenerateResource.cache
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.exe
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.pdb
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.log_in.resources
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.sign_up.resources
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.Main.resources
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.MainA.resources
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.Proizvodi.resources
+C:\Users\korisnik\Desktop\projekat\Knjizara\obj\Debug\Knjizara.Stanje.resources
